@@ -1,0 +1,30 @@
+Linea 1: SINTAXIS OK
+Linea 2: Numero de Errores 1
+Linea 3: SINTAXIS OK
+Linea 4: SINTAXIS OK
+Linea 5: Numero de Errores 2
+Linea 6: Numero de Errores 1
+Linea 7: Numero de Errores 1
+Linea 8: SINTAXIS OK
+Linea 9: Numero de Errores 1
+Linea 10: SINTAXIS OK
+Linea 11: Numero de Errores 1
+Linea 12: Numero de Errores 1
+Linea 13: Numero de Errores 1
+Linea 14: SINTAXIS OK
+Linea 15: SINTAXIS OK
+Linea 16: SINTAXIS OK
+Linea 17: SINTAXIS OK
+Linea 18: SINTAXIS OK
+Linea 19: Numero de Errores 2
+Linea 20: Numero de Errores 3
+Linea 21: SINTAXIS OK
+Linea 22: Numero de Errores 1
+Linea 23: Numero de Errores 1
+Linea 24: Numero de Errores 1
+Linea 25: SINTAXIS OK
+Linea 26: Numero de Errores 2
+Linea 27: Numero de Errores 2
+Linea 28: SINTAXIS OK
+Linea 29: SINTAXIS OK
+Linea 30: SINTAXIS OK
